@@ -5,6 +5,6 @@ Hello Git!      change at dev branch
 Hello Git!      add new line on local
 Hello Git!      add new line at github
 Hello Git!      add second line on local
-Hello Git!
+Hello Git!      add new line on github
 Hello Git!
 Hello Git!
